@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51809e1ebd11bd888523589015f48d67",
+    "revision": "85634976ceab44b6542937509445e945",
     "url": "/MarvelShuffle/index.html"
   },
   {
-    "revision": "593ab3c1e3d70ab939fe",
+    "revision": "0e3987abbe95250b234e",
     "url": "/MarvelShuffle/static/css/main.3185bd18.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MarvelShuffle/static/js/2.884c28c3.chunk.js"
   },
   {
-    "revision": "593ab3c1e3d70ab939fe",
-    "url": "/MarvelShuffle/static/js/main.1083f939.chunk.js"
+    "revision": "0e3987abbe95250b234e",
+    "url": "/MarvelShuffle/static/js/main.cb64ecd4.chunk.js"
   },
   {
     "revision": "9999711ef76073203195",
