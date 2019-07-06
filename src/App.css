@@ -2,3 +2,12 @@ img {
   height: auto;
   width: 100%
 }
+
+.mLogo {
+  height: auto;
+  width: 75px;
+}
+
+.headline {
+  color: white;
+}

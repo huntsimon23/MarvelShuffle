@@ -9,7 +9,7 @@ import GuessState from './components/GuessState/index.js';
 class App extends Component {
   state = {
     heroes: heroes,
-    guessState: true,
+    guessState: null,
     guessTally: 0,
     highScore: 0,
     currentClicks: []
@@ -54,15 +54,16 @@ class App extends Component {
   render(){
   return (
     <div className="App">
-      <div className="jumbotron jumbotron-fluid">
-        <h1 className="text-center">Click the image, but not the same one!</h1>
-      <GuessState 
-      guessState={this.state.guessState}/>
+      <nav className="navbar navbar-dark bg-primary">
+      <img src="./assets/images/MarvelLogo.png" alt="" className="mLogo"/>
+        <h2 className="text-center headline">Marvel Shuffle: click on as many characters as you can without repeating!</h2>
       <Score 
       guessTally={this.state.guessTally}/>
+      <GuessState 
+      guessState={this.state.guessState}/>
       <TopScore 
       highScore={this.state.highScore}/>
-      </div>
+      </nav>
       <div className="container container-fluid">
         <div className="row">
         {heroes.map(hero => (
@@ -72,7 +73,6 @@ class App extends Component {
         key={hero.id}
         name={hero.name}
         link={hero.link}
-          
         />
         ))}
         </div>

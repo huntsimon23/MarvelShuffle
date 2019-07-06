@@ -4,7 +4,7 @@ import "./style.css";
 function Score(props) {
   return (
     <h4 className="score">
-      Your Score: {props.guessTally} ||
+      Your Score: {props.guessTally}
     </h4>
   );
 }

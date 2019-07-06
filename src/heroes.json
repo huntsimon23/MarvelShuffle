@@ -2,62 +2,62 @@
     {
         "id": 1,    
         "name": "Black Panther",
-        "link": "/assets/images/panther.jpg"
+        "link": "./assets/images/panther.jpg"
     },{
         "id": 2,    
         "name": "Black Widow",
-        "link": "/assets/images/blackwidowendgame.png"
+        "link": "./assets/images/blackwidowendgame.png"
     },{
         "id": 3,    
         "name": "Bruce Banner",
-        "link": "/assets/images/brucebannerendgame.png"
+        "link": "./assets/images/brucebannerendgame.png"
     },{
         "id": 4,    
         "name": "Captain America",
-        "link": "/assets/images/captainamerica_endgame.png"
+        "link": "./assets/images/captainamerica_endgame.png"
     },{
         "id": 5,    
         "name": "Captian Marvel",
-        "link": "/assets/images/captainmarvelendgame.png"
+        "link": "./assets/images/captainmarvelendgame.png"
     },{
         "id": 6,    
         "name": "Dr. Strange",
-        "link": "/assets/images/doctorstrangeinfinitywar.png"
+        "link": "./assets/images/doctorstrangeinfinitywar.png"
     },{
         "id": 7,    
         "name": "Iron Man",
-        "link": "/assets/images/ironman_endgame.png"
+        "link": "./assets/images/ironman_endgame.png"
     },{
         "id": 8,    
         "name": "Spider Man",
-        "link": "/assets/images/mcu_spider_man_ffh.png"
+        "link": "./assets/images/mcu_spider_man_ffh.png"
     },{
         "id": 9,    
         "name": "Nebula",
-        "link": "/assets/images/nebulaendgame.png"
+        "link": "./assets/images/nebulaendgame.png"
     },{
         "id": 10,    
         "name": "Rocket",
-        "link": "/assets/images/rocketraccoonendgame.png"
+        "link": "./assets/images/rocketraccoonendgame.png"
     },{
         "id": 11,    
         "name": "Ronin",
-        "link": "/assets/images/roninendgame.png"
+        "link": "./assets/images/roninendgame.png"
     },{
         "id": 12,    
         "name": "Scarlet Witch",
-        "link": "/assets/images/scarletwitchinfinitywar.png"
+        "link": "./assets/images/scarletwitchinfinitywar.png"
     },{
         "id": 13,    
         "name": "Star Lord",
-        "link": "/assets/images/starlordinfinitywar.png"
+        "link": "./assets/images/starlordinfinitywar.png"
     },{
         "id": 14,    
         "name": "Thor",
-        "link": "/assets/images/thorendgame.png"
+        "link": "./assets/images/thorendgame.png"
     },{
         "id": 15,    
         "name": "War Machine",
-        "link": "/assets/images/warmachineendgame.png"
+        "link": "./assets/images/warmachineendgame.png"
     }
 ]

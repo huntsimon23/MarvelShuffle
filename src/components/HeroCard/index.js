@@ -6,7 +6,7 @@ function HeroCard(props) {
     <div className="card img-fluid img-thumbnail">
           <img src={props.link} className="card-img-top heropic" alt={props.link} onClick={() => props.tally(props.id)}/>
           <div className="card-body">
-          <p className="card-text">{props.name}</p>
+          <p className="card-text text-center">{props.name}</p>
           </div>
     </div>
   );
