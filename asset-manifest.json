@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarvelShuffle/static/css/main.b47cde58.chunk.css",
+    "main.js": "/MarvelShuffle/static/js/main.cc06e3bc.chunk.js",
+    "main.js.map": "/MarvelShuffle/static/js/main.cc06e3bc.chunk.js.map",
+    "runtime~main.js": "/MarvelShuffle/static/js/runtime~main.2a40e4c1.js",
+    "runtime~main.js.map": "/MarvelShuffle/static/js/runtime~main.2a40e4c1.js.map",
+    "static/js/2.884c28c3.chunk.js": "/MarvelShuffle/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/MarvelShuffle/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/MarvelShuffle/index.html",
+    "precache-manifest.99c6f11b568eb428349689f8fe67cb4e.js": "/MarvelShuffle/precache-manifest.99c6f11b568eb428349689f8fe67cb4e.js",
+    "service-worker.js": "/MarvelShuffle/service-worker.js",
+    "static/css/main.b47cde58.chunk.css.map": "/MarvelShuffle/static/css/main.b47cde58.chunk.css.map"
+  }
+}
